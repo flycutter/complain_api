@@ -52,6 +52,7 @@ example:
     "ts_obj_main_new": "1",       //一级分类
     "ts_obj_sec_new": "1",          //二级分类
     "ts_obj_child_new": "3"，
+    "flows":[{create_time:'2017-07-15 12:12:12',order_no:'12301',operator:'12301客服',action:'上传投诉单',state:'待受理',note:'上传',apartment:'12301客服'}],
     "expire_time": "2017.06.01 12:30:00"
 ```
 说明：该接口可用作创建和更新；此数据结构是完全参照投诉平台的，仅增加一个字段expire_time，用来标明该投诉单的企业操作过期时间
