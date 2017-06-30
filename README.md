@@ -3,7 +3,7 @@
 
 接口地址：   
 ```
-http://ecomplain.12301.cn/api/complaint_order/push
+http://ecomplain.12301.cn/api/csr/complaint_order/push
 ```
 请求方式：   
 ```
@@ -61,7 +61,7 @@ example:
 
 接口地址：
 ```
-http://ecomplain.12301.cn/api/complaint_order/lock
+http://ecomplain.12301.cn/api/csr/complaint_order/lock
 ```
 请求方式：   
 ```
